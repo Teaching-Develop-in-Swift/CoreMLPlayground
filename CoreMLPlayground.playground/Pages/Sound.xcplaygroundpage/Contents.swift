@@ -1,6 +1,6 @@
 //: [Previous: Sentiment Detection](@previous)
 
-//: Let's take a look at all the built-in sounds we can recognize
+//: Let's take a look at all the built-in sounds we can recognize...
 
 import SoundAnalysis
 
